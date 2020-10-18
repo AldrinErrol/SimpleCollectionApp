@@ -1,0 +1,10 @@
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\bin\Debug\SimpleCollectionApp.exe.config
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\bin\Debug\SimpleCollectionApp.exe
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\bin\Debug\SimpleCollectionApp.pdb
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.csprojAssemblyReference.cache
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.Form1.resources
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.Properties.Resources.resources
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.csproj.GenerateResource.cache
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.exe
+C:\Users\arate\source\repos\SimpleCollectionApp\SimpleCollectionApp\obj\Debug\SimpleCollectionApp.pdb
